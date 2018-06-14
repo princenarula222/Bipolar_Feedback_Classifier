@@ -10,7 +10,7 @@ https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 # Dependencies
 Package - Appropriate Python package
 
-Modules - Numpy, NLTK, Gensim, Scikit-learn
+Frameworks - Numpy, NLTK, Gensim, Scikit-learn
 
 # Getting started
 Download the essential files using the following link:
