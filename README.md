@@ -23,7 +23,7 @@ Place these files in the root folder of the repository.
 Run 'classifier.py' to train and test the model.
 
 # Result
-Following files are generated in the root folder upon completion of training.
+Following files are generated in the root folder upon successful execution.
 
 label_test.csv - stores true labels of the reviews contained in test set
 
