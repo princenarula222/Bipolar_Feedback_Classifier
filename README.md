@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1uPKPqKDc6Ka5rLkEz6do6AzPwZs3TNp7?usp=sha
 
 Place these files in the root folder of the repository.
 
-# Training the model
+# Training and testing the model
 Run 'classifier.py' to train and test the model.
 
 # Result
